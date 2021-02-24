@@ -7,4 +7,4 @@ Tareas Segundo Trimestre
 3. Github
 
 
-[URL]http://www.google.es[/URL]
+http://www.google.es
